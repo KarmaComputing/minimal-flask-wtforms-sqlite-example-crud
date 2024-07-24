@@ -3,6 +3,9 @@
 Minimal example using WTforms with Fask + Sqlite database.
 
 **WARNING** This project is vulnerable to SQL injection.
+# Video
+
+[![Video Minimal example using WTforms with Fask and Sqlite database ](https://img.youtube.com/vi/9fV1U6rwISA/0.jpg)](https://www.youtube.com/watch?v=9fV1U6rwISA)
 
 
 # How to use
