@@ -3,7 +3,7 @@ name = "forms"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "chrisjsimpson", email = "chris.j.simpson@live.co.uk" }
+    { name = "chrisjsimpson", email = "enquiries@karmacomputing.co.uk" }
 ]
 dependencies = [
     "flask>=3.0.3",
